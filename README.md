@@ -6,6 +6,8 @@ Libraries such as Regex, Pandas, and NumPy are deployed for cleaning and matplot
 The results of the projects are: 
 
 •	Inspected, cleaned, and structured dataset using Regex, pandas, and NumPy using Jupyter labs.
+
 •	Found the best locations, best time in the year, and the type of industries investors are funding.
+
 •	Determined the top investors, investment types, and the amount of funding investors are providing to each industry vertical with matplotlib charts.
 
